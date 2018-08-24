@@ -34,3 +34,11 @@ h2{
 a{
   color:#171819;
 }
+ol {
+  list-style-type: upper-roman;
+  list-style-position: inside;
+}
+ul {
+  padding-left: 2rem;
+  list-style-type: none;
+}
