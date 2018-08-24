@@ -1,0 +1,32 @@
+body {
+  background-color: #ffe6e6;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2em;
+  color: #4a4c4f;
+}
+.jumbotron{
+  background-color: inherit;
+  text-align: center;
+  font-family: 'Kosugi', sans-serif;
+}
+h2{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+}
+.jumbotron, h2 {
+    color: #417fe2;
+}
+#img-amelia{
+  float: left;
+  width: 250px;
+  height: auto;
+  margin-right: 5%;
+
+}
+.nav {
+  background-color: #417fe2;
+  color: #171819;
+}
+a{
+  color:#171819;
+}
